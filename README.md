@@ -3,6 +3,22 @@
 #### I am Self-Taught developer
 
 
+<summary>🤝 <b>To connect with me</b></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://bhav.dev/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ItsBhavSagar) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ItsBhav/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com//)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/) 
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/ItsBhav)
+
+</p>
+
+
+
 
 <a href="https://twitter.com/ItsBhavSagar">
   <img align="left" alt="Bhavsagar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -70,7 +86,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsBhav&show_icons=true&theme=tokyonight&line_height=27" alt="ItsBhav's github stats"/>
 </a>
 
-<details> 
+
  
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
@@ -123,7 +139,7 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>
+
 
 
 <div align="center">
