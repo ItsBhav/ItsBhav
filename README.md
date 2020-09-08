@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love playing guitar !
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItsBhav)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ItsBhav)](https://github.com/anuraghazra/github-readme-stats)
