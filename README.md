@@ -13,11 +13,12 @@
 - 💬 Ask me about my journey 🚣  as a self-taught developer !  
 - 📫 How to reach me: https://twitter.com/ItsBhavSagar 
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
-## Skills and Experiences 🤺
+## Skills and Experiences:- 🤺
 - ⚛️ React 
 - 💻 HTML | CSS | JavaScript
 
-
+## Featured Projects :-
+<img src" https://giphy.com/gifs/mD9qEpgqINsNR8fGZD "width="256"/>
 [![Bhavsagar github stats](https://github-readme-stats.vercel.app/api?username=ItsBhav)](https://github.com/ItsBhav/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chaudharybhavsagar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ItsBhavSagar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/bhavsagar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](bhav.io)  
