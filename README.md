@@ -61,14 +61,16 @@
 
 
 <a href="https://github.com/ItsBhav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBhav&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBhav&theme=tokyonight&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ItsBhav">
  
-                                                               <- GitHub Stats->
+                                                           
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsBhav&show_icons=true&theme=tokyonight&line_height=27" alt="ItsBhav's github stats"/>
 </a>
+
 <details> 
+ 
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 
