@@ -34,12 +34,12 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🔭 Currently working, learning and growing my skillset in React.JS, JavaScript, Competitive coding, Data Structures and Algorithms 😄 
+- 🔭 Currently working, learning and growing my skillset in React.JS, JavaScript, Data Structures and Algorithms 😄 
 - 🌱 I’m currently learning React 📖 
 - 👯 I’m looking to collaborate on open-source Projects 📖 
-- 🤔 I’m looking for help with landing a job as a React Developer !
-- 💬 Ask me about my journey 🚣  as a self-taught developer !  
-- 📫 How to reach me: https://twitter.com/ItsBhavSagar 
+- 👍 Looking for opportunities to join as an React Developer intern/full
+- 💬 Ask me about my journey 🚣  as a self-taught developer 
+- 🌐 Visit my [porfolio website](https://bhav.dev/) for complete background and contact
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
 
 ## Languages and Tools 👨🏽‍💻
