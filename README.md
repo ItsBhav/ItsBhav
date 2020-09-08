@@ -19,15 +19,15 @@
 
 </details>
 
-![I am GitHub read me generator creator](https://pbs.twimg.com/profile_banners/797774948/1597079216/1500x500)
+![I am GitHub read me generator creator](header.png)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 - 🔭 Currently working, learning and growing my skillset in React.JS, JavaScript, Data Structures and Algorithms 😄 
 - 🌱 I’m currently learning React 📖 
 - 👯 I’m looking to collaborate on open-source Projects 📖 
-- 👍 Looking for opportunities to join as an React Developer intern/full
-- 💬 Ask me about React.JS , JavaScript"How I Became a Self-Taught Developer" 
+- 👍 Looking for opportunities to join as a React Developer intern/full-time
+- 💬 Ask me about React.JS , JavaScript OR "How I Became a Self-Taught Developer" 
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/ItsBhav)
 - 🌐 Visit my [porfolio website](https://bhav.dev/) for complete background and contact
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
