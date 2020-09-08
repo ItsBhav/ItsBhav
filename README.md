@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on something cool  😄 
 - 🌱 I’m currently learning React.JS 📖 
 - 👯 I’m looking to collaborate on open-source Projects 📖 
-- 🤔 I’m looking for help with landing a job as a React Developer 
-- 💬 Ask me about my self-taught developer journey 🚣  
+- 🤔 I’m looking for help with landing a job as a React Developer !
+- 💬 Ask me about my journey 🚣  as a self-taught developer !  
 - 📫 How to reach me: https://twitter.com/ItsBhavSagar 
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
 
