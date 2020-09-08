@@ -42,7 +42,7 @@
 - 📫 How to reach me: https://twitter.com/ItsBhavSagar 
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
 
-## Languages and Tools 💻:
+## Languages and Tools 💻
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -52,7 +52,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
 
-## Featured Projects :-
+## Featured Projects 
 
 [![Twitter: ItsBhav](https://img.shields.io/twitter/follow/ItsBhav?style=social)](https://twitter.com/ItsBhavSagar)
 [![Linkedin: ItsBhav](https://img.shields.io/badge/-ItsBhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/itsbhav/)](https://www.linkedin.com/in/itsbhav/)
@@ -60,10 +60,23 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhav.dev-2648ff?style=flat-square&logo=google-chrome)](https://bhav.dev/)
 
 
+<a href="https://github.com/ItsBhav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBhav&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ItsBhav">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsBhav&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
     
 
 
 
-
-[![Bhavsagar github stats](https://github-readme-stats.vercel.app/api?username=ItsBhav)](https://github.com/ItsBhav/github-readme-stats)
 
