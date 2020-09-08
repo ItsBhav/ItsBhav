@@ -38,7 +38,8 @@
 - 🌱 I’m currently learning React 📖 
 - 👯 I’m looking to collaborate on open-source Projects 📖 
 - 👍 Looking for opportunities to join as an React Developer intern/full
-- 💬 Ask me about my journey 🚣  as a self-taught developer 
+- 💬 Ask me about React.JS , JavaScript"How I Became a Self-Taught Developer" 
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/ItsBhav)
 - 🌐 Visit my [porfolio website](https://bhav.dev/) for complete background and contact
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
 
