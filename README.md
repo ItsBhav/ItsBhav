@@ -41,9 +41,16 @@
 - 💬 Ask me about my journey 🚣  as a self-taught developer !  
 - 📫 How to reach me: https://twitter.com/ItsBhavSagar 
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
-## Skills and Experiences:- 🤺
-- ⚛️ React 
-- 💻 HTML | CSS | JavaScript
+
+## Languages and Tools 💻:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
 
 ## Featured Projects :-
 
@@ -51,6 +58,10 @@
 [![Linkedin: ItsBhav](https://img.shields.io/badge/-ItsBhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/itsbhav/)](https://www.linkedin.com/in/itsbhav/)
 [![GitHub ItsBhav](https://img.shields.io/github/followers/ItsBhav?label=follow&style=social)](https://github.com/ItsBhav)
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhav.dev-2648ff?style=flat-square&logo=google-chrome)](https://bhav.dev/)
+
+
+    
+
 
 
 
