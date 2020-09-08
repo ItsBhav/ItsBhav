@@ -2,8 +2,8 @@
  
 #### I am Self-Taught developer
 
-
-<summary>🤝 <b>To connect with me</b></summary>
+<details open>
+<summary>🤝 <b>Connect with me</b></summary>
 
 <p align = "center">
  
@@ -17,7 +17,7 @@
 
 </p>
 
-
+</details>
 
 
 <a href="https://twitter.com/ItsBhavSagar">
@@ -72,7 +72,7 @@
 ## Featured Projects 
 
 [![Twitter: ItsBhav](https://img.shields.io/twitter/follow/ItsBhav?style=social)](https://twitter.com/ItsBhavSagar)
-[![Linkedin: ItsBhav](https://img.shields.io/badge/-ItsBhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/itsbhav/)](https://www.linkedin.com/in/itsbhav/)
+[![Linkedin: ItsBhav](https://img.shields.io/badge/-ItsBhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/itsbhav/)](https://www.linkedin.com/in/Itsbhav/)
 [![GitHub ItsBhav](https://img.shields.io/github/followers/ItsBhav?label=follow&style=social)](https://github.com/ItsBhav)
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhav.dev-2648ff?style=flat-square&logo=google-chrome)](https://bhav.dev/)
 
@@ -86,7 +86,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsBhav&show_icons=true&theme=tokyonight&line_height=27" alt="ItsBhav's github stats"/>
 </a>
 
-
+<details>
  
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
@@ -139,7 +139,7 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+</details>
 
 
 <div align="center">
