@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/itsbhav/">
   <img align="left" alt="Bhavsagar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=" ">
+<a href="https://github.com/ItsBhav">
   <img align="left" alt="Bhavsagar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href=" ">
