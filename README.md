@@ -47,5 +47,12 @@
 
 ## Featured Projects :-
 
+[![Twitter: ItsBhav](https://img.shields.io/twitter/follow/ItsBhav?style=social)](https://twitter.com/ItsBhavSagar)
+[![Linkedin: ItsBhav](https://img.shields.io/badge/-ItsBhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/itsbhav/)](https://www.linkedin.com/in/itsbhav/)
+[![GitHub ItsBhav](https://img.shields.io/github/followers/ItsBhav?label=follow&style=social)](https://github.com/ItsBhav)
+[![website](https://img.shields.io/badge/PortfolioWebsite-bhav.dev-2648ff?style=flat-square&logo=google-chrome)](https://bhav.dev/)
+
+
+
 [![Bhavsagar github stats](https://github-readme-stats.vercel.app/api?username=ItsBhav)](https://github.com/ItsBhav/github-readme-stats)
 
