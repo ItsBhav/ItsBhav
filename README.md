@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Bhavsagar 👨🏽‍💻
  
-#### I am Self-Taught developer
+#### I am a Self-Taught developer
 
 
 
