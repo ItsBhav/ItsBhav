@@ -2,6 +2,8 @@
  
 #### I am Self-Taught developer
 
+![I am GitHub read me generator creator](header.png)
+
 <details open>
 <summary>🤝 <b>Connect with me</b></summary>
 
@@ -18,8 +20,6 @@
 </p>
 
 </details>
-
-![I am GitHub read me generator creator](header.png)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
@@ -116,6 +116,7 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 
 <div align="center">
+
 
 ### Show some ❤️ by starring some of the repositories!
 
