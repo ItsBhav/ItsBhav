@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Bhavsagar 👨🏽‍💻
  
-#### I am Self-Taught developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
-
+#### I am Self-Taught developer
 
 
 
@@ -35,7 +34,7 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on something cool 😄 
+- 🔭 Currently working, learning and growing my skillset in React.JS, JavaScript, Competitive coding, Data Structures and Algorithms 😄 
 - 🌱 I’m currently learning React 📖 
 - 👯 I’m looking to collaborate on open-source Projects 📖 
 - 🤔 I’m looking for help with landing a job as a React Developer !
