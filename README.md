@@ -1,6 +1,7 @@
-# Hi there I'm Bhavsagar 👋
+# Hi there 👋 I'm Bhavsagar 👨🏽‍💻
  
-#### I am Self-Taught Web Developer !
+#### I am Self-Taught developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+
 
 
 
@@ -42,7 +43,7 @@
 - 📫 How to reach me: https://twitter.com/ItsBhavSagar 
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
 
-## Languages and Tools 💻
+## Languages and Tools 👨🏽‍💻
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
