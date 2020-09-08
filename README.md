@@ -2,7 +2,7 @@
  
 #### I am Self-Taught developer
 
-![I am GitHub read me generator creator](header.png)
+![I am GitHub read me generator creator]()
 
 <details open>
 <summary>🤝 <b>Connect with me</b></summary>
