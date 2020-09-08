@@ -20,27 +20,6 @@
 </details>
 
 
-<a href="https://twitter.com/ItsBhavSagar">
-  <img align="left" alt="Bhavsagar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/itsbhav/">
-  <img align="left" alt="Bhavsagar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ItsBhav">
-  <img align="left" alt="Bhavsagar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href=" ">
-  <img align="left" alt="Bhavsagar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href=" ">
-  <img align="left" alt="Bhavsagar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href=" ">
-  <img align="left" alt="Bhavsagar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href=" ">
-  <img align="left" alt="Bhavsagar's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
