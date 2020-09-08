@@ -2,11 +2,11 @@
  
 #### I am Self-Taught developer
 
-![I am GitHub read me generator creator]()
 
-<details open>
+
+
 <summary>🤝 <b>Connect with me</b></summary>
-
+<details open>
 <p align = "center">
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://https://github.com/ItsBhav/)
