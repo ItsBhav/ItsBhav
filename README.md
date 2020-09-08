@@ -3,9 +3,6 @@
 #### I am Self-Taught Web Developer !
 
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
-
-
 
 - 🔭 I’m currently working on something cool  😄 
 - 🌱 I’m currently learning React.JS 📖 
