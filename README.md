@@ -1,4 +1,5 @@
 ### Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+
 # Hi there 👋 I'm Bhavsagar 💻
  
 #### I am a Self-Taught developer
@@ -33,6 +34,7 @@
 - ⚡ Fun fact: I Love Playing Guitar 🎸 
 
 ## Languages and Tools 👨🏽‍💻
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -120,7 +122,10 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 ### Show some ❤️ by starring some of the repositories!
 
+
 </div>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
     
