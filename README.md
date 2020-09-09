@@ -1,3 +1,4 @@
+### Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 # Hi there 👋 I'm Bhavsagar 💻
  
 #### I am a Self-Taught developer
