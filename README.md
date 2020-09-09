@@ -1,9 +1,8 @@
-# Hi there 👋 I'm Bhavsagar 👨🏽‍💻
+# Hi there 👋 I'm Bhavsagar 💻
  
 #### I am a Self-Taught developer
 
-
-
+## <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
 
 <summary>🤝 <b>Connect with me</b></summary>
 <details open>
@@ -121,6 +120,7 @@ JavaScript               1 repos             █░░░░░░░░░░�
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
 
     
 
