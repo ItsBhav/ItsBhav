@@ -42,7 +42,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
+
+
 
 ## Featured Projects 
 
@@ -61,60 +62,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsBhav&show_icons=true&theme=tokyonight&line_height=27" alt="ItsBhav's github stats"/>
 </a>
 
-<details>
- 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    97 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
-🌆 Daytime    183 commits    ███████░░░░░░░░░░░░░░░░░░   30.96% 
-🌃 Evening    217 commits    █████████░░░░░░░░░░░░░░░░   36.72% 
-🌙 Night      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
-Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Wednesday    63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-Thursday     95 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Friday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-Saturday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
-Sunday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.09%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-React.JS                       6 mins              █████████████████░░░░░░░░   70.11% 
-JavaScript                     2 mins              ███████░░░░░░░░░░░░░░░░░░   29.89%
-
-```
-
-**I Mostly Code in Visual Studio Code** 
-
-```text
-VS Code.                 12 repos            █████████████████░░░░░░░░   70.59% 
-React.JS                 2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-CSS                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-JavaScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
 
 <div align="center">
